@@ -10,7 +10,16 @@ section{
 body{
   margin: 0;
   padding: 0;
-  background-image: url("./FUT.jpg");
+  background-image: url("./FUT.jpg")
+}
+
+.justesse{
+  color: white;
+}
+
+.text{
+  color: white;
+  text-align: justify;
 }
 
 .FIFA18{
@@ -23,8 +32,12 @@ display: flex;
  text-align: justify;
  margin-left: 10px;
  margin-right: 10px;
- font-size: 10px;
+ font-size: 30px;
+}
 
+.Base2{
+  text-decoration: none;
+  color: white;
 }
 
 .space{
